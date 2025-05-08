@@ -1,1 +1,1 @@
-decode
+https://raw.githubusercontent.com/navajogit/clipboard/main/trash.txt
